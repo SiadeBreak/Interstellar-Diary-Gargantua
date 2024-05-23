@@ -38,7 +38,7 @@ Navigating through the asteroid belt was a nerve-wracking experience. The AI-ass
 
 We've finally caught our first glimpse of Gargantua. The black hole's immense gravitational pull is awe-inspiring, distorting light and space around it. The event horizon glows with an eerie, mesmerizing light. It's both beautiful and terrifying.
 
-![Dia 30](https://github.com/SiadeBreak/Interstellar-Diary-Gargantua/assets/53356154/ce2588f3-c713-43e6-9678-2d6b54ce7bf4)
+https://github.com/SiadeBreak/Interstellar-Diary-Gargantua/assets/53356154/85d6906a-ce16-491b-b2a1-cf11a81f54f1
 
 <br>
 
@@ -96,6 +96,8 @@ Our mission is nearing its end. We've gathered invaluable data and experienced p
 **Date:** *May 15, 2069*
 
 We are finally on our way back to Earth. The journey home will be long, but the prospect of seeing our loved ones again keeps our spirits high. This expedition has changed us in ways we are only beginning to comprehend. The universe is vast, mysterious, and endlessly fascinating.
+
+https://github.com/SiadeBreak/Interstellar-Diary-Gargantua/assets/53356154/fca94947-b675-462f-95e9-4c491984ccbd
 
 <br>
 
