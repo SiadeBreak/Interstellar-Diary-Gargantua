@@ -6,11 +6,10 @@ This project involves the creation of a fictional diary of an astronaut travelin
 
 ## 🤖 Technologies Used
 
-- **DALL-E 2**: For generating images based on textual descriptions.
+- **Copilot**: For generating images based on textual descriptions.
 - **Stable Diffusion**: For refining images and creating stylistic variations.
 - **GPT-4**: For creating diary entries and detailed descriptions of experiences and discoveries.
 - **Canva**: For the final assembly of the diary and adding additional graphic elements.
-- **Blender**: For 3D modeling of space scenarios and objects, such as the spaceship and the black hole.
 
 ## 🧐 Creation Process
 
@@ -23,7 +22,7 @@ This project involves the creation of a fictional diary of an astronaut travelin
   
 2. **Image Generation**
 
-- Using DALL-E 2 to generate initial images of space landscapes, the spaceship, and the black hole.
+- Using Copilot to generate initial images of space landscapes, the spaceship, and the black hole.
 - Refining the images using Stable Diffusion to enhance quality and add stylistic variations, ensuring the images capture the majesty and strangeness of interstellar space.
   
 <br>
@@ -32,16 +31,10 @@ This project involves the creation of a fictional diary of an astronaut travelin
 
 - Using GPT-4 to generate the diary entries, detailing the astronaut's thoughts and experiences. This includes philosophical reflections, scientific descriptions, and emotional reactions to various situations faced during the journey.
 - Creating fictional dialogues between the astronaut and the team on Earth, as well as technical logs and scientific notes.
-    
-<br>
-
-4. **3D Modeling**
-
-- Using Blender to create 3D models of the spaceship and the Gargantua black hole, adding realism to the illustrations and allowing for the creation of images from different angles and situations.
  
 <br>
   
-5. **Assembly and Editing**
+4. **Assembly and Editing**
 - Importing the generated images and texts into Canva.
 - Adding additional graphic elements such as diagrams, data charts, and special typography to enhance the visual presentation of the diary.
 - Final assembly of the diary entries in a cohesive and attractive layout.
