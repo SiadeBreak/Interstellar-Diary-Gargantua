@@ -10,6 +10,7 @@ This project involves the creation of a fictional diary of an astronaut travelin
 - **Stable Diffusion**: For refining images and creating stylistic variations.
 - **GPT-4**: For creating diary entries and detailed descriptions of experiences and discoveries.
 - **Canva**: For the final assembly of the diary and adding additional graphic elements.
+- **Runway**: For experimenting with AI models and generating various visual elements.
 
 ## 🧐 Creation Process
 
@@ -26,8 +27,14 @@ This project involves the creation of a fictional diary of an astronaut travelin
 - Refining the images using Stable Diffusion to enhance quality and add stylistic variations, ensuring the images capture the majesty and strangeness of interstellar space.
   
 <br>
-  
-3. **Text Creation**
+
+3. **Video Creation**
+
+- Utilizing Runway for additional video creation and editing, adding dynamic visual elements to complement the diary entries.
+
+<br>
+
+4. **Text Creation**
 
 - Using GPT-4 to generate the diary entries, detailing the astronaut's thoughts and experiences. This includes philosophical reflections, scientific descriptions, and emotional reactions to various situations faced during the journey.
 - Creating fictional dialogues between the astronaut and the team on Earth, as well as technical logs and scientific notes.
